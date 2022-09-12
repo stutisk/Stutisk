@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stutisk&label=Profile%20views&color=0e75b6&style=flat" alt="stutisk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stutisk" alt="stutisk" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stutisk" alt="stutisk" /></a> </p>
+ -->
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React , Javascript**
@@ -26,8 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/stuti17062p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/stuti17062p" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stutisk&show_icons=true&locale=en&layout=compact" alt="stutisk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stutisk&show_icons=true&locale=en" alt="stutisk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stutisk&" alt="stutisk" /></p>
